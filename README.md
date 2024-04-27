@@ -3,7 +3,7 @@
 
   - 👋 My name is Piang. 
   - 💼 I'm currently a research assistant of [AIM Group](https://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at CUHK EE.
-  - 🌱 I’m currently learning video generation and 3D reconstruction.
+  - 🌱 I’m currently learning diffusion models (video generation) and 3D reconstruction, especially Gaussian Splatting.
   - 📮 How to reach me: piang_lhy@163.com.
 
 ![visitor count](https://profile-counter.glitch.me/LiuHengyu321/count.svg)
